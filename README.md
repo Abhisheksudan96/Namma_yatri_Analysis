@@ -1,5 +1,8 @@
 # Namma_yatri_Analysis
 
+![Screenshot (521)](https://github.com/Abhisheksudan96/Namma_yatri_Analysis/assets/138653890/39bf92fb-64c4-4143-b60e-e961a582b213)
+
+
 Namma Yatri is India's first open mobility auto-booking app. It is a community initiative to make the auto ride experience hassle-free and affordable. It is built and supported by Bangalore techies and thought leaders passionate about building a sustainable, long-term, and OPEN solution for mobility. 
 
 This Namma Yatri application analysis offers a comprehensive overview of the app's performance, user engagement, and operational insights. It empowers stakeholders to make informed decisions, improve user experiences, and enhance the app's effectiveness in meeting the transportation needs of its users and drivers.
