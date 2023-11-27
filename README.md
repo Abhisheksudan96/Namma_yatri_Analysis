@@ -27,6 +27,12 @@ To summarize performance, the dashboard includes KPIs, such as total trips compl
 
 I got all these insights using My SQL and PowerBI.
 
+
+
+![Screenshot (522)](https://github.com/Abhisheksudan96/Namma_yatri_Analysis/assets/138653890/4cb5b244-ab03-4023-a24e-b84e4b785556)
+
+Check out NY project.sql for all SQL queries and insights.
+
 # Dashboard ; 
 
               
